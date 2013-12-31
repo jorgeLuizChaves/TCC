@@ -1,0 +1,13 @@
+D:\Dados\Documentos\Visual Studio 2012\Projects\Kinect Center\MyLibrary\bin\Debug\MyLibrary.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Kinect Center\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Kinect Center\MyLibrary\obj\Debug\MyLibrary.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Kinect Center\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\Gabriel\Documents\GitHub\KinectProjects\Kinect Center\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Gabriel\Documents\GitHub\KinectProjects\Kinect Center\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Gabriel\Documents\GitHub\KinectProjects\Kinect Center\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Gabriel\Documents\GitHub\KinectProjects\Kinect Center\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyLibrary\obj\Debug\MyLibrary.pdb

@@ -1,0 +1,28 @@
+D:\Dados\Documentos\Visual Studio 2012\Projects\Kinect Center\MyKinectLibrary\bin\Debug\MyKinectLibrary.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Kinect Center\MyKinectLibrary\bin\Debug\MyKinectLibrary.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Kinect Center\MyKinectLibrary\obj\Debug\MyKinectLibrary.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Kinect Center\MyKinectLibrary\obj\Debug\MyKinectLibrary.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Kinect Center\MyKinectLibrary\obj\Debug\MyKinectLibrary.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Kinect Center\MyKinectLibrary\bin\Debug\MyLibrary.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Kinect Center\MyKinectLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Gabriel\Documents\GitHub\KinectProjects\Kinect Center\MyKinectLibrary\obj\Debug\MyKinectLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\KinectProjects\Kinect Center\MyKinectLibrary\obj\Debug\MyKinectLibrary.dll
+C:\Users\Gabriel\Documents\GitHub\KinectProjects\Kinect Center\MyKinectLibrary\obj\Debug\MyKinectLibrary.pdb
+C:\Users\Gabriel\Documents\GitHub\KinectProjects\Kinect Center\MyKinectLibrary\bin\Debug\MyKinectLibrary.dll
+C:\Users\Gabriel\Documents\GitHub\KinectProjects\Kinect Center\MyKinectLibrary\bin\Debug\MyKinectLibrary.pdb
+C:\Users\Gabriel\Documents\GitHub\KinectProjects\Kinect Center\MyKinectLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Gabriel\Documents\GitHub\KinectProjects\Kinect Center\MyKinectLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyKinectLibrary\bin\Debug\MyKinectLibrary.dll
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyKinectLibrary\bin\Debug\MyKinectLibrary.pdb
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyKinectLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyKinectLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyKinectLibrary\obj\Debug\MyKinectLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyKinectLibrary\obj\Debug\MyKinectLibrary.dll
+C:\Users\Jorge\workspace\gabrielschadeKinect\KinectProjects\Kinect Center\MyKinectLibrary\obj\Debug\MyKinectLibrary.pdb
+C:\Users\Jorge\workspace\TCC\TCC\MyKinectLibrary\bin\Debug\MyKinectLibrary.dll
+C:\Users\Jorge\workspace\TCC\TCC\MyKinectLibrary\bin\Debug\MyKinectLibrary.pdb
+C:\Users\Jorge\workspace\TCC\TCC\MyKinectLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Jorge\workspace\TCC\TCC\MyKinectLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Jorge\workspace\TCC\TCC\MyKinectLibrary\obj\Debug\MyKinectLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\workspace\TCC\TCC\MyKinectLibrary\obj\Debug\MyKinectLibrary.dll
+C:\Users\Jorge\workspace\TCC\TCC\MyKinectLibrary\obj\Debug\MyKinectLibrary.pdb
