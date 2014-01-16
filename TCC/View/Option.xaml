@@ -12,15 +12,19 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="125"/>
             <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="200"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="100"/>
+            <RowDefinition Height="150"/>
         </Grid.RowDefinitions>
         <Canvas x:Name="kinectCanvas" Grid.Column="1" Grid.Row="0"></Canvas>
-        <Slider x:Name="kinectSlider" Orientation="Vertical"  Minimum="-27" Maximum="27" HorizontalAlignment="Center" Margin="30"></Slider>
+        
+        <Slider x:Name="kinectSlider" Orientation="Vertical"  Minimum="-27" Maximum="27"
+                HorizontalAlignment="Center" Margin="30" >
+        </Slider>
         <my:MyKinectRegion Grid.RowSpan="2" Grid.Column="2"></my:MyKinectRegion>
-        <Label x:Name="lblVerticalValue" Content="{Binding ElementName=kinectSlider, Path=Value}" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="0" FontSize="72"></Label>
+        <Label x:Name="lblVerticalValue" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="0" FontSize="72"></Label>
+        <k:KinectTileButton x:Name="btnVoltar" Grid.Column="2" Grid.Row="2" Content="Voltar" Width="120" Height="100" />
     </Grid>
 </base:ContentForm>

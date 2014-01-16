@@ -45,8 +45,8 @@ namespace TCC.View
             BrushConverter brushConverter = new BrushConverter();
             foreach (KinectTileButton button in this.kinectButtons)
             {
-                button.Background = (Brush)brushConverter.ConvertFromString("#FF5F97F9");
-                button.Foreground = Brushes.White;
+                //button.Background = (Brush)brushConverter.ConvertFromString("#FF5F97F9");
+                button.Foreground = Brushes.BlueViolet;
                 button.FontFamily = font;
                 button.FontSize = 28d;
                 

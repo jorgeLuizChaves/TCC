@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Jorge\workspace\TCC\TCC\MyKinectComponents\obj\Debug\
+C:\Users\Jorge\workspace\TCC_Project\ProjetoTCC\MyKinectComponents\obj\Debug\
 MyKinectComponents
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 2-1973525304
 
 9621165667
-19-1904880839
+192092089898
 Controls\MyKinectRegion.xaml;Controls\KinectCommandsBar.xaml;
 
 False

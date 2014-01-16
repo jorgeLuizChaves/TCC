@@ -17,6 +17,8 @@ namespace TCC.Controller.Factory
             if (!_cachedControllers.ContainsKey(key))
                 _cachedControllers.Add(key, Activator.CreateInstance<T>());
 
+            
+
             value = (T)_cachedControllers[key];
 
             return value;

@@ -6,6 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 using TCC.Controller.Factory;
 using TCC.View;
+using Microsoft.Kinect;
+using System.Windows.Controls.Primitives;
 
 namespace TCC.Controller
 {
@@ -14,6 +16,7 @@ namespace TCC.Controller
         #region [Atributtes]
         private static FrontController _instance;
         private FormControllerBase currentController;
+
         private bool _backEffect;
 
         #endregion
@@ -89,6 +92,11 @@ namespace TCC.Controller
             this.Application.navigationPanel.BackToForm(form);
         }
         #endregion
+
+        public void slider_DragCompleted(object sender, DragCompletedEventArgs e)
+        {
+            Console.Write("hi");
+        }
 
 
     }

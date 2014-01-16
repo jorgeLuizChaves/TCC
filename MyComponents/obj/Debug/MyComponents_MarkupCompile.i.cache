@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Jorge\workspace\TCC\TCC\MyComponents\obj\Debug\
+C:\Users\Jorge\workspace\TCC_Project\ProjetoTCC\MyComponents\obj\Debug\
 MyComponents
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 5-860986594
 
 23780994040
-161064258844
+16-738314163
 Controls\HandTracker.xaml;Controls\SettingsForm.xaml;Controls\SpeechBar.xaml;Forms\DialogForm.xaml;NavigationPanel\NavigationPanel.xaml;
 
 False

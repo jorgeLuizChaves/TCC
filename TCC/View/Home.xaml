@@ -11,10 +11,10 @@
         <k:KinectRegion>
             <k:KinectScrollViewer  Name="scrollViewer" HoverBackground="Transparent" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Disabled">
                 <StackPanel Orientation="Horizontal">
-                    <k:KinectTileButton x:Name="btnFisioterapeuta"  Margin="50 0 0 0" Content="Fisioterapeuta" />
-                    <k:KinectTileButton x:Name="btnPaciente" Margin="100 0 0 0" Content="Paciente" Background="#FF679EFF"/>
-                    <k:KinectTileButton x:Name="btnExercicio" Margin="100 0 0 0" Content="Exercício"/>
-                    <k:KinectTileButton x:Name="btnOpcoes" Margin="100 0 0 0" Content="Opções"/>
+                    <k:KinectTileButton x:Name="btnFisioterapeuta"  Margin="50 0 0 0" Label="Fisioterapeuta" />
+                    <k:KinectTileButton x:Name="btnPaciente" Margin="100 0 0 0" Label="Paciente" />
+                    <k:KinectTileButton x:Name="btnExercicio" Margin="100 0 0 0" Label="Exercício"/>
+                    <k:KinectTileButton x:Name="btnOpcoes" Margin="100 0 0 0" Label="Opções"/>
                 </StackPanel>
             </k:KinectScrollViewer>
         </k:KinectRegion>

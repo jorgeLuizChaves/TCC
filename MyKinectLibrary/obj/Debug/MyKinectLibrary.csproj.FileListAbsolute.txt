@@ -26,3 +26,10 @@ C:\Users\Jorge\workspace\TCC\TCC\MyKinectLibrary\bin\Debug\MyLibrary.pdb
 C:\Users\Jorge\workspace\TCC\TCC\MyKinectLibrary\obj\Debug\MyKinectLibrary.csprojResolveAssemblyReference.cache
 C:\Users\Jorge\workspace\TCC\TCC\MyKinectLibrary\obj\Debug\MyKinectLibrary.dll
 C:\Users\Jorge\workspace\TCC\TCC\MyKinectLibrary\obj\Debug\MyKinectLibrary.pdb
+C:\Users\Jorge\workspace\TCC_Project\ProjetoTCC\MyKinectLibrary\bin\Debug\MyKinectLibrary.dll
+C:\Users\Jorge\workspace\TCC_Project\ProjetoTCC\MyKinectLibrary\bin\Debug\MyKinectLibrary.pdb
+C:\Users\Jorge\workspace\TCC_Project\ProjetoTCC\MyKinectLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Jorge\workspace\TCC_Project\ProjetoTCC\MyKinectLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Jorge\workspace\TCC_Project\ProjetoTCC\MyKinectLibrary\obj\Debug\MyKinectLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\workspace\TCC_Project\ProjetoTCC\MyKinectLibrary\obj\Debug\MyKinectLibrary.dll
+C:\Users\Jorge\workspace\TCC_Project\ProjetoTCC\MyKinectLibrary\obj\Debug\MyKinectLibrary.pdb
